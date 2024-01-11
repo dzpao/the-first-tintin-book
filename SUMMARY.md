@@ -21,7 +21,7 @@
   * [延迟执行（#delay）❌](tintin++-ru-men/kuai-su-shang-shou/yan-chi-zhi-hang-delay.md)
   * [触发器（#action）❌](tintin++-ru-men/kuai-su-shang-shou/chu-fa-qi-action-1.md)
   * [归类（#class）❌](tintin++-ru-men/kuai-su-shang-shou/gui-lei-class.md)
-* [更多触发](tintin++-ru-men/geng-duo-chu-fa.md)
+* [更多触发❌](tintin++-ru-men/geng-duo-chu-fa.md)
 
 ## TinTin++ 语法指南
 
@@ -54,6 +54,13 @@
 
 * [TinTin++ 指令手册❌](can-kao-shou-ce/tintin++-zhi-ling-shou-ce.md)
 * [TinTin++ 支持的协议❌](can-kao-shou-ce/tintin++-zhi-chi-de-xie-yi.md)
+
+## TinTin++ 源代码解析
+
+* [源码概述❌](tintin++-yuan-dai-ma-jie-xi/yuan-ma-gai-shu.md)
+* [命令是怎样被执行的❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de.md)
+* [词法分析❌](tintin++-yuan-dai-ma-jie-xi/ci-fa-fen-xi.md)
+* [语法分析❌](tintin++-yuan-dai-ma-jie-xi/yu-fa-fen-xi.md)
 
 ## 社区
 
