@@ -61,6 +61,7 @@
 * [命令是怎样被执行的❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de.md)
 * [词法分析❌](tintin++-yuan-dai-ma-jie-xi/ci-fa-fen-xi.md)
 * [语法分析❌](tintin++-yuan-dai-ma-jie-xi/yu-fa-fen-xi.md)
+* [文本替换❌](tintin++-yuan-dai-ma-jie-xi/wen-ben-ti-huan.md)
 
 ## 社区
 

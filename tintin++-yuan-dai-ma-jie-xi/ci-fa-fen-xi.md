@@ -28,16 +28,5 @@
 * `GET_NST`: 允许方括号嵌套。
 * `GET_VBT`: 遇到分号时也不停止。
 * `GET_SPC`: 保留空白。
-* `SUB_NONE`: 什么也不替换。
-* `SUB_ARG` : FIXME
-* `SUB_SEC` : FIXME
-* `SUB_BRA` : FIXME
-* `SUB_CMD` : FIXME
-* `SUB_VAR` : FIXME
-* `SUB_FUN` : FIXME
-* `SUB_COL` : FIXME
-* `SUB_ESC` : FIXME
-* `SUB_EOL` : FIXME
-* `SUB_LNF` : FIXME
-* `SUB_SIL` : FIXME
-* `SUB_LIT` : FIXME
+
+`sub` 参数的值请参考 [wen-ben-ti-huan.md](wen-ben-ti-huan.md "mention")。
