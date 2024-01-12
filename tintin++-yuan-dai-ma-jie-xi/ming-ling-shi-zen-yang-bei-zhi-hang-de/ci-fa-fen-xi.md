@@ -21,7 +21,16 @@
 * `sub_arg_in_braces`: 先执行 `get_arg_in_braces`，然后执行替换。
 * `sub_arg_stop_spaces`: 先执行 `get_arg_stop_spaces`，然后执行替换。
 
-这些函数的原型都很像，其中提到 `flag` 参数和 `sub` 参数会对它们的行为产生重要的影响：
+这些函数的原型都很像，基本都是这样：
+
+```
+const char *get_arg_xxx(struct session *ses, const char *source, char *output, int flag);
+const char *sub_arg_xxx(struct session *ses, const char *source, char *output, int flag, int sub);
+```
+
+其中 `source` 指向需要解析的源代码，`output` 则指向用作存放提取物的目标缓冲区，函数返回值则指向剩余的源代码。
+
+`flag` 参数和 `sub` 参数会对它们的行为产生重要的影响：
 
 * `GET_ONE`: 遇到空格时停止。
 * `GET_ALL`: 遇到分号时才停止。
@@ -30,3 +39,8 @@
 * `GET_SPC`: 保留空白。
 
 `sub` 参数的值请参考 [wen-ben-ti-huan.md](wen-ben-ti-huan.md "mention")。
+
+这里面最常用是 `get_arg_in_braces` 和 `sub_arg_in_braces`，各有数百次的调用。其次是 `get_arg_to_brackets` 和 `get_arg_in_brackets`，各有二十多次调用。其余用得很少。
+
+`sub_arg_in_braces` 可以看作是 `get_arg_in_braces` 和 `substitute` 的组合。
+
