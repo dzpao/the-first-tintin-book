@@ -58,10 +58,16 @@
 ## TinTin++ 源代码解析
 
 * [源码概述❌](tintin++-yuan-dai-ma-jie-xi/yuan-ma-gai-shu.md)
-* [命令是怎样被执行的❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de.md)
-* [词法分析❌](tintin++-yuan-dai-ma-jie-xi/ci-fa-fen-xi.md)
-* [语法分析❌](tintin++-yuan-dai-ma-jie-xi/yu-fa-fen-xi.md)
-* [文本替换❌](tintin++-yuan-dai-ma-jie-xi/wen-ben-ti-huan.md)
+* [命令是怎样被执行的❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de/README.md)
+  * [词法分析❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de/ci-fa-fen-xi.md)
+  * [语法分析❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de/yu-fa-fen-xi.md)
+  * [文本替换❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de/wen-ben-ti-huan.md)
+* [核心数据结构❌](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/README.md)
+  * [tintin\_data\* gtd❌](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/tintin\_data-gtd.md)
+  * [level\_data\* gtd->level❌](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/level\_data-gtd-greater-than-level.md)
+* [内存管理和栈模型❌](tintin++-yuan-dai-ma-jie-xi/nei-cun-guan-li-he-zhan-mo-xing/README.md)
+  * [str 和 ptr❌](tintin++-yuan-dai-ma-jie-xi/nei-cun-guan-li-he-zhan-mo-xing/str-he-ptr.md)
+  * [str 维护❌](tintin++-yuan-dai-ma-jie-xi/nei-cun-guan-li-he-zhan-mo-xing/str-wei-hu.md)
 
 ## 社区
 
