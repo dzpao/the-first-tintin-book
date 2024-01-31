@@ -1,6 +1,7 @@
 # Table of contents
 
-* [前言✅](README.md)
+* [第一本 TinTin++ 编程书](README.md)
+* [前言✅](<README (1).md>)
   * [阅读指南✅](qian-yan/yue-du-zhi-nan.md)
   * [术语和约定✅](qian-yan/shu-yu-he-yue-ding.md)
 
