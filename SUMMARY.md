@@ -1,7 +1,7 @@
 # Table of contents
 
 * [第一本 TinTin++ 编程书](README.md)
-* [前言✅](<README (1).md>)
+* [前言✅](qian-yan/README.md)
   * [阅读指南✅](qian-yan/yue-du-zhi-nan.md)
   * [术语和约定✅](qian-yan/shu-yu-he-yue-ding.md)
 
@@ -65,6 +65,7 @@
   * [文本替换❌](tintin++-yuan-dai-ma-jie-xi/ming-ling-shi-zen-yang-bei-zhi-hang-de/wen-ben-ti-huan.md)
 * [核心数据结构❌](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/README.md)
   * [tintin\_data\* gtd❌](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/tintin\_data-gtd.md)
+  * [listroot 和 listnode](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/listroot-he-listnode.md)
   * [level\_data\* gtd->level❌](tintin++-yuan-dai-ma-jie-xi/he-xin-shu-ju-jie-gou/level\_data-gtd-greater-than-level.md)
 * [内存管理和栈模型❌](tintin++-yuan-dai-ma-jie-xi/nei-cun-guan-li-he-zhan-mo-xing/README.md)
   * [str 和 ptr❌](tintin++-yuan-dai-ma-jie-xi/nei-cun-guan-li-he-zhan-mo-xing/str-he-ptr.md)

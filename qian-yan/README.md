@@ -2,7 +2,7 @@
 description: 《第一本 tintin++ 编程书》
 ---
 
-# 前言
+# 前言✅
 
 ## 前言的前言
 
@@ -16,8 +16,8 @@ description: 《第一本 tintin++ 编程书》
 
 好了，接下来你可以阅读：
 
-{% content-ref url="qian-yan/yue-du-zhi-nan.md" %}
-[yue-du-zhi-nan.md](qian-yan/yue-du-zhi-nan.md)
+{% content-ref url="yue-du-zhi-nan.md" %}
+[yue-du-zhi-nan.md](yue-du-zhi-nan.md)
 {% endcontent-ref %}
 
 ## 为什么创作本书
