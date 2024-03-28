@@ -28,20 +28,20 @@ TinTin++ 在几乎所有操作系统上都可以使用。TinTin++ 社区目前�
 
 如前所述，TinTin++ 有不同的版本，根据版本的不同，相应的安装方式也有所不同。
 
-1.  **直接用包管理器安装**。
+*   **直接用包管理器安装**。
 
     许多 Linux 发行版，以及 macOS 都有收录 TinTin++，你只要用你的包管理器（apt、yum、brew等）搜索 tintin，应该就可以搜得到。
-2.  **源码安装**。
+*   **源码安装**。
 
     适用于大部分 Unix 系统。包括苹果、安卓、Linux、BSD，等等。这种安装方式要求用户先安装编译器，然后下载一份源代码，还要安装少量的编译依赖包，最后再完成编译。
 
     源代码可以从 [GitHub](https://github.com/scandum/tintin) 上下载到。
 
     具体安装方法参考：[https://tintin.mudhalla.net/install.php](https://tintin.mudhalla.net/install.php)。
-3.  **预编译的 WinTin++**。
+*   **预编译的 WinTin++**。
 
     可以从这里找到安装包：[https://github.com/scandum/tintin/releases](https://github.com/scandum/tintin/releases)。
-4.  **安装 PaoTin++**。
+*   **安装 PaoTin++**。
 
     请参考：[https://pkuxkx.net/wiki/tools/paotin](https://pkuxkx.net/wiki/tools/paotin)
 
