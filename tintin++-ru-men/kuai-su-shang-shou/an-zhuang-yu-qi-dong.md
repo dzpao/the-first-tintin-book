@@ -1,4 +1,8 @@
-# 安装与启动❌
+---
+description: 开始之前，你得先安装。
+---
+
+# 安装与启动✅
 
 ## 我该选择什么版本？
 
@@ -69,8 +73,3 @@ WinTin++ 自带了 minitty，比较丑，追求美观的朋友建议改用 Windo
 * 测试版：[https://www.mudhalla.net/tintin-beta.tar.gz](https://www.mudhalla.net/tintin-beta.tar.gz)
 * WinTin++：[https://github.com/scandum/tintin/releases](https://github.com/scandum/tintin/releases)
 * PaoTin++:  [https://pkuxkx.net/wiki/tools/paotin](https://pkuxkx.net/wiki/tools/paotin)
-
-###
-
-
-

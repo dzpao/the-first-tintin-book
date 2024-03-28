@@ -8,7 +8,7 @@
 ## TinTin++ 入门
 
 * [快速上手❌](tintin++-ru-men/kuai-su-shang-shou/README.md)
-  * [安装与启动❌](tintin++-ru-men/kuai-su-shang-shou/an-zhuang-yu-qi-dong.md)
+  * [安装与启动✅](tintin++-ru-men/kuai-su-shang-shou/an-zhuang-yu-qi-dong.md)
   * [连接到游戏❌](tintin++-ru-men/kuai-su-shang-shou/lian-jie-dao-you-xi.md)
   * [你好，TinTin++❌](tintin++-ru-men/kuai-su-shang-shou/ni-hao-tintin++.md)
   * [到哪里寻求帮助？❌](tintin++-ru-men/kuai-su-shang-shou/dao-na-li-xun-qiu-bang-zhu.md)
